@@ -24,10 +24,6 @@ website: Contains the Django application for the website.
 templates: Includes HTML templates for rendering the website pages.
 static: Stores static files such as CSS, JavaScript, and images.
 
-Usage
-Customize the Django application (website) to implement specific features and functionality utilizing the APIs.
-Modify the HTML templates (templates) to design and style the website pages according to your preferences.
-Add additional views, models, and templates as needed to extend the functionality of the website.
-Credits
 This project was created by SAMUEL ANDREW
+
 Special thanks to the creators of BoredAPI, Dog API, Unsplash API, and Fact API for providing the APIs used in this project.
